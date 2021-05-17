@@ -1,0 +1,9 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "map-bug",
+  "appid": "touristappid",
+  "setting": {
+    "es6": false,
+    "minified": false
+  }
+}
